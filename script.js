@@ -2,27 +2,27 @@ const produtos = [
     {
         nome: "Ovo De Páscoa Barbie 166g - Lacta",
         foto: "img/barbie.webp",
-        preco: 3499.99
+        preco: 60.00
     },
     {
         nome: "Ovo De Páscoa Ao Leite Ben 10 Topcau 80g",
         foto: "img/ben10.webp",
-        preco: 4299.00
+        preco: 30.00
     },
     {
         nome: "Cacau Show Ovo De Páscoa ao Leite Gogos Looney Tunes 170g",
         foto: "img/looneytunes.webp",
-        preco: 199.90
+        preco: 119.90
     },
     {
         nome: "Ovo de Páscoa Kinder Masha e Urso 100g",
         foto: "img/mashaarrombada.webp",
-        preco: 2899.00
+        preco: 80.00
     },
     {
         nome: "Divino Vício Ovo de Páscoa Divino Kids Miniatura 2d Tom e Jerry 80g",
         foto: "img/tomejerry.webp",
-        preco: 4499.99
+        preco: 30.00
     }
 ];
 
